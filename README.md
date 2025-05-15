@@ -1,6 +1,4 @@
-.
-
-🎮 Core Features:
+Core Features:
 
 Keyboard and gamepad support for steering, braking, and acceleration
 
@@ -12,13 +10,13 @@ Immersive elements: engine sounds, exhaust flames, collision effects
 
 Real-time minimap for navigation
 
-🔧 Garage System:
+Garage System:
 Players can unlock and choose new cars using collected coins — enhancing strategy and gameplay variety.
 
-📊 User Interface:
+User Interface:
 Speedometer, race timer, booster bar, and a live leaderboard keep players engaged and informed.
 
-🧠 Development Highlights:
+Development Highlights:
 This project followed a structured development plan with clear milestones:
 
 Implemented garage mechanics
@@ -30,6 +28,6 @@ Built an intuitive UI
 Enhanced gameplay with visual/audio feedback
 
 Here is link for video demo:
-
+https://drive.google.com/file/d/17Iju0vyZTXCVe097P_vgwg9D5KqMNlul/view?usp=sharing
 Here is the link for itch.io gameplay webgl:
 https://anas4873299.itch.io/car-rush?secret=f2uofcxfQLlhQknTCW0FfaAHYBc
