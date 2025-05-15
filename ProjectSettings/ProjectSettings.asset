@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 09473169ca2d8824bb888e5a6bde22d3
+  productGUID: b1d3addd42eeb2e47b1b93cb3c1d755a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Car Rush
+  productName: Cars Rush
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -157,7 +157,8 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Standalone: com.DefaultCompany.Cars-Rush
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -862,14 +863,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Car Rush
+  metroPackageName: Cars Rush
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Car Rush
+  metroApplicationDescription: Cars Rush
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -938,10 +939,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 862d0638-7cbc-4fa4-a17f-eff4a41d2d07
+  cloudProjectId: 23b8c1cd-1a5e-4cff-8740-6b50b1a7259d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Car Rush
+  projectName: Cars Rush
   organizationId: anas12121
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
